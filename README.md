@@ -4,5 +4,6 @@
 
 1. npm init
 2. npm install --save cheerio axios colors
-3. touch index.js
+3. touch index.js  
+Examples of contents are appropriate in index.js
 4. run in terminal => node index.js
